@@ -1,1 +1,2 @@
-#!/bin/bash\nchmod hello=olleh
+#!/bin/bash
+chmod hello=olleh
